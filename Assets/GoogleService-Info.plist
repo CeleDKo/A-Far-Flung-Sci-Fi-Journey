@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDWfwqJZXmT74mjSP5Y3zGj_lxu2EsUwUQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>43794194011</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tua.af4rflungsc1f1j0urney</string>
+	<key>PROJECT_ID</key>
+	<string>a-far-flung-sci-fi-journey</string>
+	<key>STORAGE_BUCKET</key>
+	<string>a-far-flung-sci-fi-journey.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:43794194011:ios:525ca8a62fedf28900a97e</string>
+</dict>
+</plist>

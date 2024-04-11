@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "43794194011",
+    "project_id": "a-far-flung-sci-fi-journey",
+    "storage_bucket": "a-far-flung-sci-fi-journey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43794194011:ios:525ca8a62fedf28900a97e",
+        "android_client_info": {
+          "package_name": "com.tua.af4rflungsc1f1j0urney"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWfwqJZXmT74mjSP5Y3zGj_lxu2EsUwUQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
