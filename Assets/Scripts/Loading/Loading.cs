@@ -65,7 +65,7 @@ public class Loading : MonoBehaviour
         _percentGoalNow += 10;
         string CloakPoint = string.Empty;
         string endData = GenerateData();
-        using (UnityWebRequest www = UnityWebRequest.Post("https://(ваш домен)/api/v2/appLog", endData, "application/json"))
+        using (UnityWebRequest www = UnityWebRequest.Post("https://cyberspheretech.online/app/af4rflungsc1f1j0urney", endData, "application/json"))
         {
             yield return www.SendWebRequest();
             if (www.result != UnityWebRequest.Result.Success)
@@ -80,8 +80,7 @@ public class Loading : MonoBehaviour
         }
 
         _percentGoalNow = 70;
-        //if (CloakPoint.Contains("0"))
-        if (CloakPoint.Contains("has_success"))
+        if (CloakPoint.Contains($"\"has_success\":false"))
             _safeMode = false;
         else
             _safeMode = true;
